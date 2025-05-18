@@ -4,6 +4,8 @@ import 'package:url_launcher/url_launcher.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   void _launchURL() async {
     final Uri url = Uri.parse('https://flutter.dev');
     if (!await launchUrl(url, mode: LaunchMode.externalApplication)) {

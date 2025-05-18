@@ -16,4 +16,10 @@ List<Project> projects = [
     description: "Aplikasi Flutter untuk mengelola tugas harian",
     imageUrl: "assets/todo.png",
   ),
+  Project(
+    title: "Program Studi",
+    description: "Program Studi Anda",
+    imageUrl: "assets/prodi.png",
+  ),
+
 ];

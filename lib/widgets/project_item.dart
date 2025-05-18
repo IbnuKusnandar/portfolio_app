@@ -4,7 +4,7 @@ import '../models/project.dart';
 class ProjectItem extends StatelessWidget {
   final Project project;
 
-  ProjectItem({required this.project});
+  const ProjectItem({super.key, required this.project});
 
   @override
   Widget build(BuildContext context) {

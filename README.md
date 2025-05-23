@@ -2,6 +2,12 @@
 
 tugas pertama
 
+![TUGAS PERTAMA](https://github.com/user-attachments/assets/d3b68876-478f-4919-b9ff-cb1779d2b36c)
+
+![TUGAS PERTAMA 2](https://github.com/user-attachments/assets/cc3a1276-f4c8-4877-a5ea-c5f9623b493e)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
